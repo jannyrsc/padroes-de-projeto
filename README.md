@@ -1,11 +1,19 @@
-# padroes-de-projeto
+# Padrões de Projeto
 
-• AbstractFactory
+• Abstract Factory
+
 • Adapter
+
 • Bridge
+
 • Builder
+
 • Decorator
-• FactoryMethod
-• ProvaFacade
+
+• Factory Method
+
+• Facade
+
 • Proxy
+
 • Singleton
